@@ -1,1 +1,17 @@
-/* General pages styles */
+/* Imports */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+    width: 15rem;
+    height: 15rem;
+}
+
